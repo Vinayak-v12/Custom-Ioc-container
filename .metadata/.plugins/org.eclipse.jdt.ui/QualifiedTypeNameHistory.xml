@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.annotation.Retention"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.RetentionPolicy"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.Target"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.ElementType"/>
+    <fullyQualifiedTypeName name="spring_custom_Di.Custom_Component"/>
+    <fullyQualifiedTypeName name="java.util.Collection"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Field"/>
+    <fullyQualifiedTypeName name="spring_custom_Di.Custom_Autowired"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="jdk.internal.reflect.Reflection"/>
+    <fullyQualifiedTypeName name="jdk.internal.joptsimple.internal.Reflection"/>
+    <fullyQualifiedTypeName name="org.reflections.Reflections"/>
+    <fullyQualifiedTypeName name="custom_DI.Custom_Autowired"/>
+    <fullyQualifiedTypeName name="custom_DI.Custom_Component"/>
+    <fullyQualifiedTypeName name="custom_DI.Custom_IOC_Conatiner"/>
+</qualifiedTypeNameHistroy>
